@@ -11,6 +11,8 @@
         android:layout_height="0dp"
         android:scaleType="centerCrop"
         android:contentDescription="@string/banner_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="4dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintDimensionRatio="2:1"

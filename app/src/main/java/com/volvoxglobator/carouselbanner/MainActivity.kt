@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         banner_view_pager.adapter = BannerAdapter(bannerList)
+        banner_view_pager.offscreenPageLimit = 1
     }
 }
