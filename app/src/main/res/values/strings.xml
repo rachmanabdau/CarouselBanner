@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Carousel Banner</string>
+    <string name="banner_content">Banner Content</string>
 </resources>
